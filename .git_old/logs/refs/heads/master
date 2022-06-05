@@ -1,0 +1,21 @@
+0000000000000000000000000000000000000000 2c5c247b1dc57d77ae7f204a0abdfb0ff0a27764 alpha.defi.9@gmail.com <alpha.defi.9@gmail.com> 1653847833 -0700	commit (initial): Initialize project using Create React App
+2c5c247b1dc57d77ae7f204a0abdfb0ff0a27764 1bbc0652049a699f449e5cd1d7fb5d7f99aed9f2 alpha.defi.9@gmail.com <alpha.defi.9@gmail.com> 1653848910 -0700	commit: Add remark
+1bbc0652049a699f449e5cd1d7fb5d7f99aed9f2 3a984e3d66864a5add36d1f504f61b280498f341 alpha.defi.9@gmail.com <alpha.defi.9@gmail.com> 1653872932 -0700	commit: input
+3a984e3d66864a5add36d1f504f61b280498f341 121f08a1ad8499f3d460a0d16693df51645a6423 alpha.defi.9@gmail.com <alpha.defi.9@gmail.com> 1653873036 -0700	commit: Simple
+121f08a1ad8499f3d460a0d16693df51645a6423 7069026f143827688f5f688940b2bebbb7adee0d alpha.defi.9@gmail.com <alpha.defi.9@gmail.com> 1653873175 -0700	commit: update
+7069026f143827688f5f688940b2bebbb7adee0d 1d94aa7e1289f117bc684bc4a9ca64b97dfb069b alpha.defi.9@gmail.com <alpha.defi.9@gmail.com> 1653873354 -0700	commit: add scss
+1d94aa7e1289f117bc684bc4a9ca64b97dfb069b 826b199a8b6ad35efcda86231ddccad4deabed95 alpha.defi.9@gmail.com <alpha.defi.9@gmail.com> 1653874547 -0700	commit: work in progress
+826b199a8b6ad35efcda86231ddccad4deabed95 b66e1cc5ffb7f71fd4307baffa549cd06582ccf8 alpha.defi.9@gmail.com <alpha.defi.9@gmail.com> 1653875247 -0700	commit: WIP
+b66e1cc5ffb7f71fd4307baffa549cd06582ccf8 a67ef00c69fc7968b7f805fac40072fbaf3919bc alpha.defi.9@gmail.com <alpha.defi.9@gmail.com> 1653900331 -0700	commit: matching regexp
+a67ef00c69fc7968b7f805fac40072fbaf3919bc d1ef348afaab34b1cc69b332dc21e0ad249ac7db alpha.defi.9@gmail.com <alpha.defi.9@gmail.com> 1653921750 -0700	commit: Backup
+d1ef348afaab34b1cc69b332dc21e0ad249ac7db 1e51499033539a88554a49fc68e0a305bc7f8f6c alpha.defi.9@gmail.com <alpha.defi.9@gmail.com> 1653944371 -0700	commit: Backup
+1e51499033539a88554a49fc68e0a305bc7f8f6c cfecc9e104b2760ee702ea3dd67deb1fbee42dd8 alpha.defi.9@gmail.com <alpha.defi.9@gmail.com> 1653944544 -0700	commit: more fix
+cfecc9e104b2760ee702ea3dd67deb1fbee42dd8 97a877b7224fb02660e609f69573f237d87637cb alpha.defi.9@gmail.com <alpha.defi.9@gmail.com> 1653945073 -0700	commit: Cannot edit regex. buggy
+97a877b7224fb02660e609f69573f237d87637cb f1a0ce882a916bd523c2e64c1997c9ff6c5c8b2a alpha.defi.9@gmail.com <alpha.defi.9@gmail.com> 1653945440 -0700	commit: basic example works
+f1a0ce882a916bd523c2e64c1997c9ff6c5c8b2a 121f08a1ad8499f3d460a0d16693df51645a6423 alpha.defi.9@gmail.com <alpha.defi.9@gmail.com> 1653947295 -0700	reset: moving to HEAD~10
+121f08a1ad8499f3d460a0d16693df51645a6423 1bbc0652049a699f449e5cd1d7fb5d7f99aed9f2 alpha.defi.9@gmail.com <alpha.defi.9@gmail.com> 1653947301 -0700	reset: moving to HEAD~2
+1bbc0652049a699f449e5cd1d7fb5d7f99aed9f2 2c5c247b1dc57d77ae7f204a0abdfb0ff0a27764 alpha.defi.9@gmail.com <alpha.defi.9@gmail.com> 1653947306 -0700	reset: moving to HEAD~1
+2c5c247b1dc57d77ae7f204a0abdfb0ff0a27764 47229f92666a9e30cf2833c5f429b989090ab770 Minh Nguyen <iominh.2020@gmail.com> 1653947772 -0700	commit: Initial markdown sorter by top level header
+47229f92666a9e30cf2833c5f429b989090ab770 c7696901ce31d3af5254f87e9aa27395d07995ca Minh Nguyen <iominh.2020@gmail.com> 1653948343 -0700	commit: Github pages deploy
+c7696901ce31d3af5254f87e9aa27395d07995ca 2c5c247b1dc57d77ae7f204a0abdfb0ff0a27764 Minh Nguyen <iominh.2020@gmail.com> 1654442303 -0700	reset: moving to HEAD~2
+2c5c247b1dc57d77ae7f204a0abdfb0ff0a27764 4bb60268591da8feaa38a35d24c95976fd593058 Minh Nguyen <iominh.2020@gmail.com> 1654442381 -0700	commit (amend): Initialize project using Create React App
